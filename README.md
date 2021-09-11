@@ -38,7 +38,6 @@ Authorization: Basic cHVibGljOjcwNDJOZG1XRmtxVmo3YWJUNTR3MGpuWQ==
 User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36
 Origin: https://www.leggett-immo.com
 Content-Type: application/json
-
 ```
 
 Body JSON: 
