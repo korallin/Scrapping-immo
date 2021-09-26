@@ -9,6 +9,7 @@ with Deno
 | Immobilier.hu | [Link](https://immobilier.hu/) | 05/09/2021 | Scrapping pur |
 | Leggett-immo | [Link](https://www.leggett-immo.com) | 11/09/2021 | Exploit weak API |
 | Imop | [Link](https://www.imop.fr) | 26/09/2021 | Exploit JSON in webpage |
+| Dumarest immobilier | [Link](https://dumarestimmobilier.com) | 26/09/2021 | Exploit JSON webpages |
 
 
 # Launch 
@@ -53,3 +54,7 @@ Stats: ~5000ms
 
 - go to script part
 - copy past ths JSON data
+
+# Dumarest immobilier 
+- `deno run -A --unstable --no-check main.ts`
+- data will go out in: `index.json` :)

@@ -1,0 +1,2730 @@
+[{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Appartement à vendre, 4 pièces - Issy-les-Moulineaux 92130",
+    "image": "https://img.netty.immo/product/dumarest/VA2101/appartement-t4-4-pieces-issy-les-moulineaux-92130-1631898351-VA2101_6_original.jpg",
+    "description": "Découvrez cet appartement (t4) de 4 pièces situé à Issy-les-Moulineaux (92130) disponible à la vente.",
+    "offers": {
+        "url": "www.dumarestimmobilier.com/vente/appartement-t4-4-pieces-issy-les-moulineaux-92130,VA2101",
+        "price": 697000,
+        "priceCurrency": "EUR",
+        "itemOffered": {
+            "@type": "Apartment",
+            "numberOfRooms": 4,
+            "numberOfBathroomsTotal": 1,
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitCode": "MTK",
+                "value": 105
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressLocality": "Issy-les-Moulineaux",
+                "postalCode": "92130"
+            },
+            "photo": [{
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA2101/appartement-t4-4-pieces-issy-les-moulineaux-92130-1631898351-VA2101_6_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA2101/appartement-t4-4-pieces-issy-les-moulineaux-92130-1631898347-VA2101_3_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA2101/appartement-t4-4-pieces-issy-les-moulineaux-92130-1631898344-VA2101_1_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA2101/appartement-t4-4-pieces-issy-les-moulineaux-92130-1631898346-VA2101_2_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA2101/appartement-t4-4-pieces-issy-les-moulineaux-92130-1631898349-VA2101_4_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA2101/appartement-t4-4-pieces-issy-les-moulineaux-92130-1631898350-VA2101_5_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA2101/appartement-t4-4-pieces-issy-les-moulineaux-92130-1631898353-VA2101_7_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA2101/appartement-t4-4-pieces-issy-les-moulineaux-92130-1631898354-VA2101_8_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA2101/appartement-t4-4-pieces-issy-les-moulineaux-92130-1631898355-VA2101_9_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA2101/appartement-t4-4-pieces-issy-les-moulineaux-92130-1631898357-VA2101_10_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA2101/appartement-t4-4-pieces-issy-les-moulineaux-92130-1631898358-VA2101_11_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA2101/appartement-t4-4-pieces-issy-les-moulineaux-92130-1631898359-VA2101_12_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA2101/appartement-t4-4-pieces-issy-les-moulineaux-92130-1631898360-VA2101_13_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA2101/appartement-t4-4-pieces-issy-les-moulineaux-92130-1631898362-VA2101_14_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA2101/appartement-t4-4-pieces-issy-les-moulineaux-92130-1631898363-VA2101_15_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA2101/appartement-t4-4-pieces-issy-les-moulineaux-92130-1631898364-VA2101_16_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA2101/appartement-t4-4-pieces-issy-les-moulineaux-92130-1631898366-VA2101_17_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA2101/appartement-t4-4-pieces-issy-les-moulineaux-92130-1631898368-VA2101_19_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA2101/appartement-t4-4-pieces-issy-les-moulineaux-92130-1631898369-VA2101_20_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA2101/appartement-t4-4-pieces-issy-les-moulineaux-92130-1631898372-VA2101_22_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA2101/appartement-t4-4-pieces-issy-les-moulineaux-92130-1631898374-VA2101_23_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA2101/appartement-t4-4-pieces-issy-les-moulineaux-92130-1631898375-VA2101_24_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA2101/appartement-t4-4-pieces-issy-les-moulineaux-92130-1631898377-VA2101_25_original.jpg"
+            }],
+            "subjectOf": {
+                "@type": "MediaObject",
+                "url": ""
+            }
+        },
+        "subjectOf": ""
+    }
+}, {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Domaine du Lys-Chantilly - Propriété de 8 pièces - 311 m² - 2888 m² de terrain",
+    "image": "https://img.netty.immo/product/dumarest/VM308/maison-individuelle-8-pieces-lamorlaye-60260-1630860248-VM308_3_original.jpg",
+    "description": "Découvrez cette maison (individuelle) de 8 pièces située à Lamorlaye (60260) disponible à la vente.",
+    "offers": {
+        "url": "www.dumarestimmobilier.com/vente/maison-individuelle-8-pieces-lamorlaye-60260,VM308",
+        "price": 740000,
+        "priceCurrency": "EUR",
+        "itemOffered": {
+            "@type": "House",
+            "numberOfRooms": 8,
+            "numberOfBathroomsTotal": 2,
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitCode": "MTK",
+                "value": 311
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressLocality": "Lamorlaye",
+                "postalCode": "60260"
+            },
+            "photo": [{
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VM308/maison-individuelle-8-pieces-lamorlaye-60260-1630860248-VM308_3_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VM308/maison-individuelle-8-pieces-lamorlaye-60260-1630860601-VM308_12_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VM308/maison-individuelle-8-pieces-lamorlaye-60260-1630860384-VM308_6_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VM308/maison-individuelle-8-pieces-lamorlaye-60260-1630860337-VM308_5_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VM308/maison-individuelle-8-pieces-lamorlaye-60260-1630860290-VM308_4_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VM308/maison-individuelle-8-pieces-lamorlaye-60260-1630860777-VM308_16_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VM308/maison-individuelle-8-pieces-lamorlaye-60260-1630860178-VM308_2_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VM308/maison-individuelle-8-pieces-lamorlaye-60260-1630860133-VM308_1_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VM308/maison-individuelle-8-pieces-lamorlaye-60260-1630860413-VM308_7_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VM308/maison-individuelle-8-pieces-lamorlaye-60260-1630860471-VM308_9_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VM308/maison-individuelle-8-pieces-lamorlaye-60260-1630860441-VM308_8_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VM308/maison-individuelle-8-pieces-lamorlaye-60260-1630860491-VM308_10_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VM308/maison-individuelle-8-pieces-lamorlaye-60260-1630860671-VM308_13_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VM308/maison-individuelle-8-pieces-lamorlaye-60260-1630860722-VM308_14_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VM308/maison-individuelle-8-pieces-lamorlaye-60260-1630860797-VM308_17_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VM308/maison-individuelle-8-pieces-lamorlaye-60260-1630860819-VM308_18_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VM308/maison-individuelle-8-pieces-lamorlaye-60260-1630860842-VM308_19_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VM308/maison-individuelle-8-pieces-lamorlaye-60260-1630860864-VM308_20_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VM308/maison-individuelle-8-pieces-lamorlaye-60260-1630931455-VM308_11_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VM308/maison-individuelle-8-pieces-lamorlaye-60260-1630931457-VM308_15_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VM308/maison-individuelle-8-pieces-lamorlaye-60260-1630931458-VM308_22_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VM308/maison-individuelle-8-pieces-lamorlaye-60260-1630931459-VM308_23_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VM308/maison-individuelle-8-pieces-lamorlaye-60260-1630931458-VM308_21_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VM308/maison-individuelle-8-pieces-lamorlaye-60260-1630931459-VM308_24_original.jpg"
+            }],
+            "subjectOf": {
+                "@type": "MediaObject",
+                "url": ""
+            }
+        },
+        "subjectOf": ""
+    }
+}, {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Paris 16 - Jasmin - Appartement de standing 5/6 pièces 212 m²",
+    "image": "https://img.netty.immo/product/dumarest/VA2066/appartement-t5-et-plus-5-pieces-paris-75016-1621531846-VA2066_8_original.jpg",
+    "description": "Découvrez cet appartement (t5 et plus) de 5 pièces situé à Paris (75016) disponible à la vente.",
+    "offers": {
+        "url": "www.dumarestimmobilier.com/vente/appartement-t5-et-plus-5-pieces-paris-75016,VA2066",
+        "price": 3190000,
+        "priceCurrency": "EUR",
+        "itemOffered": {
+            "@type": "Apartment",
+            "numberOfRooms": 5,
+            "numberOfBathroomsTotal": 2,
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitCode": "MTK",
+                "value": 212
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressLocality": "Paris",
+                "postalCode": "75016"
+            },
+            "photo": [{
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA2066/appartement-t5-et-plus-5-pieces-paris-75016-1621531846-VA2066_8_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA2066/appartement-t5-et-plus-5-pieces-paris-75016-1621531849-VA2066_10_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA2066/appartement-t5-et-plus-5-pieces-paris-75016-1621878797-VA2066_19_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA2066/appartement-t5-et-plus-5-pieces-paris-75016-1621531851-VA2066_11_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA2066/appartement-t5-et-plus-5-pieces-paris-75016-1621531843-VA2066_6_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA2066/appartement-t5-et-plus-5-pieces-paris-75016-1621531837-VA2066_2_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA2066/appartement-t5-et-plus-5-pieces-paris-75016-1621531840-VA2066_4_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA2066/appartement-t5-et-plus-5-pieces-paris-75016-1621531841-VA2066_5_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA2066/appartement-t5-et-plus-5-pieces-paris-75016-1621531845-VA2066_7_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA2066/appartement-t5-et-plus-5-pieces-paris-75016-1621531853-VA2066_12_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA2066/appartement-t5-et-plus-5-pieces-paris-75016-1621531854-VA2066_13_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA2066/appartement-t5-et-plus-5-pieces-paris-75016-1621531856-VA2066_14_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA2066/appartement-t5-et-plus-5-pieces-paris-75016-1621531857-VA2066_15_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA2066/appartement-t5-et-plus-5-pieces-paris-75016-1621531858-VA2066_16_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA2066/appartement-t5-et-plus-5-pieces-paris-75016-1621531860-VA2066_17_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA2066/appartement-t5-et-plus-5-pieces-paris-75016-1621531861-VA2066_18_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA2066/appartement-t5-et-plus-5-pieces-paris-75016-1621531864-VA2066_20_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA2066/appartement-t5-et-plus-5-pieces-paris-75016-1621531835-VA2066_1_original.jpg"
+            }],
+            "subjectOf": {
+                "@type": "MediaObject",
+                "url": "https://www.youtube.com/watch?v=xvmi3XSCJ0g"
+            }
+        },
+        "subjectOf": ""
+    }
+}, {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Neuilly - Maison avec espace extérieur en plein coeur de Neuilly",
+    "image": "https://img.netty.immo/product/dumarest/VA2082/appartement-t2-3-3-pieces-neuilly-sur-seine-92200-1626795045-VA2082_7_original.jpg",
+    "description": "Découvrez cet appartement (t2/3) de 3 pièces situé à Neuilly-sur-Seine (92200) disponible à la vente.",
+    "offers": {
+        "url": "www.dumarestimmobilier.com/vente/appartement-t2-3-3-pieces-neuilly-sur-seine-92200,VA2082",
+        "price": 560000,
+        "priceCurrency": "EUR",
+        "itemOffered": {
+            "@type": "Apartment",
+            "numberOfRooms": 3,
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitCode": "MTK",
+                "value": 41
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressLocality": "Neuilly-sur-Seine",
+                "postalCode": "92200"
+            },
+            "photo": [{
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA2082/appartement-t2-3-3-pieces-neuilly-sur-seine-92200-1626795045-VA2082_7_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA2082/appartement-t2-3-3-pieces-neuilly-sur-seine-92200-1626795054-VA2082_10_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA2082/appartement-t2-3-3-pieces-neuilly-sur-seine-92200-1626795094-VA2082_30_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA2082/appartement-t2-3-3-pieces-neuilly-sur-seine-92200-1626795035-VA2082_2_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA2082/appartement-t2-3-3-pieces-neuilly-sur-seine-92200-1626795089-VA2082_27_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA2082/appartement-t2-3-3-pieces-neuilly-sur-seine-92200-1626795092-VA2082_29_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA2082/appartement-t2-3-3-pieces-neuilly-sur-seine-92200-1626795059-VA2082_12_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA2082/appartement-t2-3-3-pieces-neuilly-sur-seine-92200-1626795071-VA2082_17_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA2082/appartement-t2-3-3-pieces-neuilly-sur-seine-92200-1626795078-VA2082_21_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA2082/appartement-t2-3-3-pieces-neuilly-sur-seine-92200-1626795080-VA2082_22_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA2082/appartement-t2-3-3-pieces-neuilly-sur-seine-92200-1626795083-VA2082_24_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA2082/appartement-t2-3-3-pieces-neuilly-sur-seine-92200-1626950994-VA2082_1_original.jpg"
+            }],
+            "subjectOf": {
+                "@type": "MediaObject",
+                "url": ""
+            }
+        },
+        "subjectOf": ""
+    }
+}, {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Paris 7 - Rue de l'université - 4 pièces de standing ",
+    "image": "https://img.netty.immo/product/dumarest/VA2088/appartement-t4-4-pieces-paris-75007-1627367583-VA2088_6_original.jpg",
+    "description": "Découvrez cet appartement (t4) de 4 pièces situé à Paris (75007) disponible à la vente.",
+    "offers": {
+        "url": "www.dumarestimmobilier.com/vente/appartement-t4-4-pieces-paris-75007,VA2088",
+        "price": 1635000,
+        "priceCurrency": "EUR",
+        "itemOffered": {
+            "@type": "Apartment",
+            "numberOfRooms": 4,
+            "numberOfBathroomsTotal": 1,
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitCode": "MTK",
+                "value": 93
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressLocality": "Paris",
+                "postalCode": "75007"
+            },
+            "photo": [{
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA2088/appartement-t4-4-pieces-paris-75007-1627367583-VA2088_6_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA2088/appartement-t4-4-pieces-paris-75007-1627457575-VA2088_5_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA2088/appartement-t4-4-pieces-paris-75007-1627457842-VA2088_7_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA2088/appartement-t4-4-pieces-paris-75007-1627367588-VA2088_9_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA2088/appartement-t4-4-pieces-paris-75007-1627367609-VA2088_21_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA2088/appartement-t4-4-pieces-paris-75007-1627410775-VA2088_4_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA2088/appartement-t4-4-pieces-paris-75007-1627367576-VA2088_1_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA2088/appartement-t4-4-pieces-paris-75007-1627367590-VA2088_10_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA2088/appartement-t4-4-pieces-paris-75007-1627367592-VA2088_11_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA2088/appartement-t4-4-pieces-paris-75007-1627367578-VA2088_3_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA2088/appartement-t4-4-pieces-paris-75007-1627367597-VA2088_14_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA2088/appartement-t4-4-pieces-paris-75007-1627367600-VA2088_16_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA2088/appartement-t4-4-pieces-paris-75007-1627367612-VA2088_23_original.jpg"
+            }],
+            "subjectOf": {
+                "@type": "MediaObject",
+                "url": ""
+            }
+        },
+        "subjectOf": ""
+    }
+}, {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Paris 11 - Duplex dernier étage - Balcon filant",
+    "image": "https://img.netty.immo/product/dumarest/VA2056/appartement-t5-et-plus-5-pieces-paris-75011-1620226907-VA2056_6_original.jpg",
+    "description": "Découvrez cet appartement (t5 et plus) de 5 pièces situé à Paris (75011) disponible à la vente.",
+    "offers": {
+        "url": "www.dumarestimmobilier.com/vente/appartement-t5-et-plus-5-pieces-paris-75011,VA2056",
+        "price": 900000,
+        "priceCurrency": "EUR",
+        "itemOffered": {
+            "@type": "Apartment",
+            "numberOfRooms": 5,
+            "numberOfBathroomsTotal": 2,
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitCode": "MTK",
+                "value": 88
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressLocality": "Paris",
+                "postalCode": "75011"
+            },
+            "photo": [{
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA2056/appartement-t5-et-plus-5-pieces-paris-75011-1620226907-VA2056_6_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA2056/appartement-t5-et-plus-5-pieces-paris-75011-1620226907-VA2056_7_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA2056/appartement-t5-et-plus-5-pieces-paris-75011-1620226907-VA2056_14_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA2056/appartement-t5-et-plus-5-pieces-paris-75011-1620226907-VA2056_1_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA2056/appartement-t5-et-plus-5-pieces-paris-75011-1620226907-VA2056_2_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA2056/appartement-t5-et-plus-5-pieces-paris-75011-1620226907-VA2056_3_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA2056/appartement-t5-et-plus-5-pieces-paris-75011-1620226907-VA2056_10_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA2056/appartement-t5-et-plus-5-pieces-paris-75011-1620226907-VA2056_11_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA2056/appartement-t5-et-plus-5-pieces-paris-75011-1629893958-VA2056_4_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA2056/appartement-t5-et-plus-5-pieces-paris-75011-1620226907-VA2056_12_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA2056/appartement-t5-et-plus-5-pieces-paris-75011-1620226907-VA2056_13_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA2056/appartement-t5-et-plus-5-pieces-paris-75011-1620226907-VA2056_9_original.jpg"
+            }],
+            "subjectOf": {
+                "@type": "MediaObject",
+                "url": ""
+            }
+        },
+        "subjectOf": ""
+    }
+}, {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Paris 5 - Jardin des plantes - 2P à rénover",
+    "image": "https://img.netty.immo/product/dumarest/VA2084/appartement-t2-2-pieces-paris-75005-1627131275-VA2084_8_original.jpg",
+    "description": "Découvrez cet appartement (t2) de 2 pièces situé à Paris (75005) disponible à la vente.",
+    "offers": {
+        "url": "www.dumarestimmobilier.com/vente/appartement-t2-2-pieces-paris-75005,VA2084",
+        "price": 570000,
+        "priceCurrency": "EUR",
+        "itemOffered": {
+            "@type": "Apartment",
+            "numberOfRooms": 2,
+            "numberOfBathroomsTotal": 1,
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitCode": "MTK",
+                "value": 39
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressLocality": "Paris",
+                "postalCode": "75005"
+            },
+            "photo": [{
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA2084/appartement-t2-2-pieces-paris-75005-1627131275-VA2084_8_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA2084/appartement-t2-2-pieces-paris-75005-1627131207-VA2084_5_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA2084/appartement-t2-2-pieces-paris-75005-1627131251-VA2084_7_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA2084/appartement-t2-2-pieces-paris-75005-1627131345-VA2084_11_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA2084/appartement-t2-2-pieces-paris-75005-1627131366-VA2084_12_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA2084/appartement-t2-2-pieces-paris-75005-1627131406-VA2084_14_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA2084/appartement-t2-2-pieces-paris-75005-1627307578-VA2084_1_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA2084/appartement-t2-2-pieces-paris-75005-1627131182-VA2084_4_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA2084/appartement-t2-2-pieces-paris-75005-1627240870-VA2084_15_original.jpg"
+            }],
+            "subjectOf": {
+                "@type": "MediaObject",
+                "url": ""
+            }
+        },
+        "subjectOf": ""
+    }
+}, {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "BUSSY-SAINT-GEORGES- MAISON 5 PIECES SUR TERRAIN AU CALME ",
+    "image": "https://img.netty.immo/product/dumarest/VM302/maison-5-pieces-bussy-saint-georges-77600-1624955531-VM302_7_original.jpg",
+    "description": "Découvrez cette maison de 5 pièces située à Bussy-Saint-Georges (77600) disponible à la vente.",
+    "offers": {
+        "url": "www.dumarestimmobilier.com/vente/maison-5-pieces-bussy-saint-georges-77600,VM302",
+        "price": 640000,
+        "priceCurrency": "EUR",
+        "itemOffered": {
+            "@type": "House",
+            "numberOfRooms": 5,
+            "numberOfBathroomsTotal": 1,
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitCode": "MTK",
+                "value": 137
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressLocality": "Bussy-Saint-Georges",
+                "postalCode": "77600"
+            },
+            "photo": [{
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VM302/maison-5-pieces-bussy-saint-georges-77600-1624955531-VM302_7_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VM302/maison-5-pieces-bussy-saint-georges-77600-1624955541-VM302_10_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VM302/maison-5-pieces-bussy-saint-georges-77600-1624955538-VM302_9_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VM302/maison-5-pieces-bussy-saint-georges-77600-1624955515-VM302_4_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VM302/maison-5-pieces-bussy-saint-georges-77600-1624955534-VM302_8_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VM302/maison-5-pieces-bussy-saint-georges-77600-1624955508-VM302_1_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VM302/maison-5-pieces-bussy-saint-georges-77600-1624955510-VM302_2_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VM302/maison-5-pieces-bussy-saint-georges-77600-1624955965-VM302_3_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VM302/maison-5-pieces-bussy-saint-georges-77600-1624955984-VM302_12_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VM302/maison-5-pieces-bussy-saint-georges-77600-1624955521-VM302_5_original.jpg"
+            }],
+            "subjectOf": {
+                "@type": "MediaObject",
+                "url": ""
+            }
+        },
+        "subjectOf": ""
+    }
+}, {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Paris 14 - Rue Raymond Losserand - 3 pièces avec balcons",
+    "image": "https://img.netty.immo/product/dumarest/VA2076/appartement-t3-3-pieces-paris-75014-1624304766-VA2076_5_original.jpg",
+    "description": "Découvrez cet appartement (t3) de 3 pièces situé à Paris (75014) disponible à la vente.",
+    "offers": {
+        "url": "www.dumarestimmobilier.com/vente/appartement-t3-3-pieces-paris-75014,VA2076",
+        "price": 645000,
+        "priceCurrency": "EUR",
+        "itemOffered": {
+            "@type": "Apartment",
+            "numberOfRooms": 3,
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitCode": "MTK",
+                "value": 63
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressLocality": "Paris",
+                "postalCode": "75014"
+            },
+            "photo": [{
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA2076/appartement-t3-3-pieces-paris-75014-1624304766-VA2076_5_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA2076/appartement-t3-3-pieces-paris-75014-1624304768-VA2076_6_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA2076/appartement-t3-3-pieces-paris-75014-1624304769-VA2076_7_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA2076/appartement-t3-3-pieces-paris-75014-1624304770-VA2076_8_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA2076/appartement-t3-3-pieces-paris-75014-1624304774-VA2076_10_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA2076/appartement-t3-3-pieces-paris-75014-1624304775-VA2076_11_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA2076/appartement-t3-3-pieces-paris-75014-1624304777-VA2076_12_original.jpg"
+            }],
+            "subjectOf": {
+                "@type": "MediaObject",
+                "url": ""
+            }
+        },
+        "subjectOf": ""
+    }
+}, {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Paris 18 - Maison de 203 m² avec terrasse ",
+    "image": "https://img.netty.immo/product/dumarest/VM298/maison-individuelle-8-pieces-paris-75018-1622828777-VM298_5_original.jpg",
+    "description": "Découvrez cette maison (individuelle) de 8 pièces située à Paris (75018) disponible à la vente.",
+    "offers": {
+        "url": "www.dumarestimmobilier.com/vente/maison-individuelle-8-pieces-paris-75018,VM298",
+        "price": 1890000,
+        "priceCurrency": "EUR",
+        "itemOffered": {
+            "@type": "House",
+            "numberOfRooms": 8,
+            "numberOfBathroomsTotal": 1,
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitCode": "MTK",
+                "value": 186
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressLocality": "Paris",
+                "postalCode": "75018"
+            },
+            "photo": [{
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VM298/maison-individuelle-8-pieces-paris-75018-1622828777-VM298_5_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VM298/maison-individuelle-8-pieces-paris-75018-1622828467-VM298_25_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VM298/maison-individuelle-8-pieces-paris-75018-1622828447-VM298_2_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VM298/maison-individuelle-8-pieces-paris-75018-1622828448-VM298_3_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VM298/maison-individuelle-8-pieces-paris-75018-1622828445-VM298_1_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VM298/maison-individuelle-8-pieces-paris-75018-1622828449-VM298_4_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VM298/maison-individuelle-8-pieces-paris-75018-1622828460-VM298_16_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VM298/maison-individuelle-8-pieces-paris-75018-1622828453-VM298_7_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VM298/maison-individuelle-8-pieces-paris-75018-1622828454-VM298_8_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VM298/maison-individuelle-8-pieces-paris-75018-1622828455-VM298_9_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VM298/maison-individuelle-8-pieces-paris-75018-1622828455-VM298_10_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VM298/maison-individuelle-8-pieces-paris-75018-1622828456-VM298_11_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VM298/maison-individuelle-8-pieces-paris-75018-1622828459-VM298_14_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VM298/maison-individuelle-8-pieces-paris-75018-1622828463-VM298_20_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VM298/maison-individuelle-8-pieces-paris-75018-1622828464-VM298_22_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VM298/maison-individuelle-8-pieces-paris-75018-1622828465-VM298_23_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VM298/maison-individuelle-8-pieces-paris-75018-1622828466-VM298_24_original.jpg"
+            }],
+            "subjectOf": {
+                "@type": "MediaObject",
+                "url": ""
+            }
+        },
+        "subjectOf": ""
+    }
+}, {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Issy les Moulineaux - Balcon - 4 pièces",
+    "image": "https://img.netty.immo/product/dumarest/VA2064/appartement-t4-4-pieces-issy-les-moulineaux-92130-1621591396-VA2064_13_original.jpg",
+    "description": "Découvrez cet appartement (t4) de 4 pièces situé à Issy-les-Moulineaux (92130) disponible à la vente.",
+    "offers": {
+        "url": "www.dumarestimmobilier.com/vente/appartement-t4-4-pieces-issy-les-moulineaux-92130,VA2064",
+        "price": 1000000,
+        "priceCurrency": "EUR",
+        "itemOffered": {
+            "@type": "Apartment",
+            "numberOfRooms": 4,
+            "numberOfBathroomsTotal": 1,
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitCode": "MTK",
+                "value": 106
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressLocality": "Issy-les-Moulineaux",
+                "postalCode": "92130"
+            },
+            "photo": [{
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA2064/appartement-t4-4-pieces-issy-les-moulineaux-92130-1621591396-VA2064_13_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA2064/appartement-t4-4-pieces-issy-les-moulineaux-92130-1621520563-VA2064_10_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA2064/appartement-t4-4-pieces-issy-les-moulineaux-92130-1621520562-VA2064_9_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA2064/appartement-t4-4-pieces-issy-les-moulineaux-92130-1621520537-VA2064_1_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA2064/appartement-t4-4-pieces-issy-les-moulineaux-92130-1621520555-VA2064_3_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA2064/appartement-t4-4-pieces-issy-les-moulineaux-92130-1621520554-VA2064_2_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA2064/appartement-t4-4-pieces-issy-les-moulineaux-92130-1621520556-VA2064_4_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA2064/appartement-t4-4-pieces-issy-les-moulineaux-92130-1621520562-VA2064_8_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA2064/appartement-t4-4-pieces-issy-les-moulineaux-92130-1621520559-VA2064_6_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA2064/appartement-t4-4-pieces-issy-les-moulineaux-92130-1621521051-VA2064_11_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA2064/appartement-t4-4-pieces-issy-les-moulineaux-92130-1621520560-VA2064_7_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA2064/appartement-t4-4-pieces-issy-les-moulineaux-92130-1621520558-VA2064_5_original.jpg"
+            }],
+            "subjectOf": {
+                "@type": "MediaObject",
+                "url": ""
+            }
+        },
+        "subjectOf": ""
+    }
+}, {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Propriété - Normandie - 10 Min de Lyons la forêt",
+    "image": "https://img.netty.immo/product/dumarest/VA2050/appartement-t5-et-plus-6-pieces-lyons-la-foret-27480-1618861366-VA2050_3_original.jpg",
+    "description": "Découvrez cet appartement (t5 et plus) de 6 pièces situé à Lyons-la-Forêt (27480) disponible à la vente.",
+    "offers": {
+        "url": "www.dumarestimmobilier.com/vente/appartement-t5-et-plus-6-pieces-lyons-la-foret-27480,VA2050",
+        "price": 505000,
+        "priceCurrency": "EUR",
+        "itemOffered": {
+            "@type": "Apartment",
+            "numberOfRooms": 6,
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitCode": "MTK",
+                "value": 200
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressLocality": "Lyons-la-Forêt",
+                "postalCode": "27480"
+            },
+            "photo": [{
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA2050/appartement-t5-et-plus-6-pieces-lyons-la-foret-27480-1618861366-VA2050_3_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA2050/appartement-t5-et-plus-6-pieces-lyons-la-foret-27480-1618861430-VA2050_5_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA2050/appartement-t5-et-plus-6-pieces-lyons-la-foret-27480-1618861454-VA2050_6_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA2050/appartement-t5-et-plus-6-pieces-lyons-la-foret-27480-1618861477-VA2050_7_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA2050/appartement-t5-et-plus-6-pieces-lyons-la-foret-27480-1618861526-VA2050_9_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA2050/appartement-t5-et-plus-6-pieces-lyons-la-foret-27480-1618861552-VA2050_10_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA2050/appartement-t5-et-plus-6-pieces-lyons-la-foret-27480-1618861686-VA2050_16_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA2050/appartement-t5-et-plus-6-pieces-lyons-la-foret-27480-1618861616-VA2050_13_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA2050/appartement-t5-et-plus-6-pieces-lyons-la-foret-27480-1618861663-VA2050_15_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA2050/appartement-t5-et-plus-6-pieces-lyons-la-foret-27480-1618861738-VA2050_18_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA2050/appartement-t5-et-plus-6-pieces-lyons-la-foret-27480-1618862081-VA2050_4_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA2050/appartement-t5-et-plus-6-pieces-lyons-la-foret-27480-1618862104-VA2050_8_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA2050/appartement-t5-et-plus-6-pieces-lyons-la-foret-27480-1618861341-VA2050_2_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA2050/appartement-t5-et-plus-6-pieces-lyons-la-foret-27480-1618861317-VA2050_1_original.jpg"
+            }],
+            "subjectOf": {
+                "@type": "MediaObject",
+                "url": ""
+            }
+        },
+        "subjectOf": ""
+    }
+}, {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "MAISON 2050 m² terrain - 5 MIN LYONS LA FORET ",
+    "image": "https://img.netty.immo/product/dumarest/VM290/maison-ancienne-4-pieces-lyons-la-foret-27480-1618319738-VM290_1_original.jpg",
+    "description": "Découvrez cette maison (ancienne) de 4 pièces située à Lyons-la-Forêt (27480) disponible à la vente.",
+    "offers": {
+        "url": "www.dumarestimmobilier.com/vente/maison-ancienne-4-pieces-lyons-la-foret-27480,VM290",
+        "price": 235000,
+        "priceCurrency": "EUR",
+        "itemOffered": {
+            "@type": "House",
+            "numberOfRooms": 4,
+            "numberOfBathroomsTotal": 1,
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitCode": "MTK",
+                "value": 121
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressLocality": "Lyons-la-Forêt",
+                "postalCode": "27480"
+            },
+            "photo": [{
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VM290/maison-ancienne-4-pieces-lyons-la-foret-27480-1618319738-VM290_1_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VM290/maison-ancienne-4-pieces-lyons-la-foret-27480-1618319075-VM290_4_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VM290/maison-ancienne-4-pieces-lyons-la-foret-27480-1618319890-VM290_10_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VM290/maison-ancienne-4-pieces-lyons-la-foret-27480-1618319000-VM290_6_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VM290/maison-ancienne-4-pieces-lyons-la-foret-27480-1618319024-VM290_7_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VM290/maison-ancienne-4-pieces-lyons-la-foret-27480-1618319323-VM290_13_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VM290/maison-ancienne-4-pieces-lyons-la-foret-27480-1618319846-VM290_9_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VM290/maison-ancienne-4-pieces-lyons-la-foret-27480-1618319368-VM290_14_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VM290/maison-ancienne-4-pieces-lyons-la-foret-27480-1618318888-VM290_2_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VM290/maison-ancienne-4-pieces-lyons-la-foret-27480-1618319266-VM290_11_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VM290/maison-ancienne-4-pieces-lyons-la-foret-27480-1618319523-VM290_16_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VM290/maison-ancienne-4-pieces-lyons-la-foret-27480-1618318909-VM290_3_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VM290/maison-ancienne-4-pieces-lyons-la-foret-27480-1618319589-VM290_17_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VM290/maison-ancienne-4-pieces-lyons-la-foret-27480-1618319625-VM290_18_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VM290/maison-ancienne-4-pieces-lyons-la-foret-27480-1618319124-VM290_8_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VM290/maison-ancienne-4-pieces-lyons-la-foret-27480-1618319463-VM290_15_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VM290/maison-ancienne-4-pieces-lyons-la-foret-27480-1618319814-VM290_12_original.jpg"
+            }],
+            "subjectOf": {
+                "@type": "MediaObject",
+                "url": ""
+            }
+        },
+        "subjectOf": ""
+    }
+}, {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Paris 15 - Commerce - 2 pièces en excellent état - lumineux",
+    "image": "https://img.netty.immo/product/dumarest/VA2040/appartement-t2-2-pieces-paris-75015-1617556753-VA2040_8_original.jpg",
+    "description": "Découvrez cet appartement (t2) de 2 pièces situé à Paris (75015) disponible à la vente.",
+    "offers": {
+        "url": "www.dumarestimmobilier.com/vente/appartement-t2-2-pieces-paris-75015,VA2040",
+        "price": 495000,
+        "priceCurrency": "EUR",
+        "itemOffered": {
+            "@type": "Apartment",
+            "numberOfRooms": 2,
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitCode": "MTK",
+                "value": 40
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressLocality": "Paris",
+                "postalCode": "75015"
+            },
+            "photo": [{
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA2040/appartement-t2-2-pieces-paris-75015-1617556753-VA2040_8_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA2040/appartement-t2-2-pieces-paris-75015-1617821621-VA2040_7_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA2040/appartement-t2-2-pieces-paris-75015-1617556711-VA2040_6_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA2040/appartement-t2-2-pieces-paris-75015-1620285063-VA2040_5_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA2040/appartement-t2-2-pieces-paris-75015-1617556784-VA2040_9_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA2040/appartement-t2-2-pieces-paris-75015-1617556669-VA2040_4_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA2040/appartement-t2-2-pieces-paris-75015-1617556602-VA2040_1_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA2040/appartement-t2-2-pieces-paris-75015-1617556630-VA2040_2_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA2040/appartement-t2-2-pieces-paris-75015-1617556652-VA2040_3_original.jpg"
+            }],
+            "subjectOf": {
+                "@type": "MediaObject",
+                "url": ""
+            }
+        },
+        "subjectOf": ""
+    }
+}, {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "PARIS 14 - Parking ",
+    "image": "https://img.netty.immo/product/dumarest/VS020/stationnement-parking-1-place-paris-75014-1616739983-VS020_1_original.jpg",
+    "description": "Découvrez ce stationnement (parking) 1 place situé à Paris (75014) disponible à la vente.",
+    "offers": {
+        "url": "www.dumarestimmobilier.com/vente/stationnement-parking-1-place-paris-75014,VS020",
+        "price": 26500,
+        "priceCurrency": "EUR",
+        "itemOffered": "",
+        "subjectOf": ""
+    }
+}, {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Montrouge - 2/3 pièces étage élevé - vue dégagée sur parc",
+    "image": "https://img.netty.immo/product/dumarest/VA2038/appartement-t2-3-2-pieces-montrouge-92120-1616582577-VA2038_4_original.jpg",
+    "description": "Découvrez cet appartement (t2/3) de 2 pièces situé à Montrouge (92120) disponible à la vente.",
+    "offers": {
+        "url": "www.dumarestimmobilier.com/vente/appartement-t2-3-2-pieces-montrouge-92120,VA2038",
+        "price": 357000,
+        "priceCurrency": "EUR",
+        "itemOffered": {
+            "@type": "Apartment",
+            "numberOfRooms": 2,
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitCode": "MTK",
+                "value": 52
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressLocality": "Montrouge",
+                "postalCode": "92120"
+            },
+            "photo": [{
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA2038/appartement-t2-3-2-pieces-montrouge-92120-1616582577-VA2038_4_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA2038/appartement-t2-3-2-pieces-montrouge-92120-1616582574-VA2038_2_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA2038/appartement-t2-3-2-pieces-montrouge-92120-1616957956-VA2038_7_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA2038/appartement-t2-3-2-pieces-montrouge-92120-1616582575-VA2038_3_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA2038/appartement-t2-3-2-pieces-montrouge-92120-1616582573-VA2038_1_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA2038/appartement-t2-3-2-pieces-montrouge-92120-1616582583-VA2038_8_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA2038/appartement-t2-3-2-pieces-montrouge-92120-1616582585-VA2038_9_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA2038/appartement-t2-3-2-pieces-montrouge-92120-1616582580-VA2038_6_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA2038/appartement-t2-3-2-pieces-montrouge-92120-1616582994-VA2038_5_original.jpg"
+            }],
+            "subjectOf": {
+                "@type": "MediaObject",
+                "url": ""
+            }
+        },
+        "subjectOf": ""
+    }
+}, {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Paris 8 - Appartement séjour cathédrale",
+    "image": "https://img.netty.immo/product/dumarest/VA1996/appartement-t3-4-4-pieces-paris-75008-1610472760-VA1996_4_original.jpg",
+    "description": "Découvrez cet appartement (t3/4) de 4 pièces situé à Paris (75008) disponible à la vente.",
+    "offers": {
+        "url": "www.dumarestimmobilier.com/vente/appartement-t3-4-4-pieces-paris-75008,VA1996",
+        "price": 1200000,
+        "priceCurrency": "EUR",
+        "itemOffered": {
+            "@type": "Apartment",
+            "numberOfRooms": 4,
+            "numberOfBathroomsTotal": 1,
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitCode": "MTK",
+                "value": 80
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressLocality": "Paris",
+                "postalCode": "75008"
+            },
+            "photo": [{
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA1996/appartement-t3-4-4-pieces-paris-75008-1610472760-VA1996_4_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA1996/appartement-t3-4-4-pieces-paris-75008-1610472756-VA1996_2_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA1996/appartement-t3-4-4-pieces-paris-75008-1610472755-VA1996_1_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA1996/appartement-t3-4-4-pieces-paris-75008-1610472758-VA1996_3_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA1996/appartement-t3-4-4-pieces-paris-75008-1610472761-VA1996_5_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA1996/appartement-t3-4-4-pieces-paris-75008-1610472763-VA1996_6_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA1996/appartement-t3-4-4-pieces-paris-75008-1610472764-VA1996_7_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA1996/appartement-t3-4-4-pieces-paris-75008-1610472766-VA1996_8_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA1996/appartement-t3-4-4-pieces-paris-75008-1610472767-VA1996_9_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA1996/appartement-t3-4-4-pieces-paris-75008-1610472769-VA1996_10_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA1996/appartement-t3-4-4-pieces-paris-75008-1610472770-VA1996_11_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA1996/appartement-t3-4-4-pieces-paris-75008-1610472772-VA1996_12_original.jpg"
+            }],
+            "subjectOf": {
+                "@type": "MediaObject",
+                "url": ""
+            }
+        },
+        "subjectOf": ""
+    }
+}, {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Paris 18 - Village Ramey - 3P refait à neuf",
+    "image": "https://img.netty.immo/product/dumarest/VA1976/appartement-t3-3-pieces-paris-75018-1602404776-VA1976_4_original.jpg",
+    "description": "Découvrez cet appartement (t3) de 3 pièces situé à Paris (75018) disponible à la vente.",
+    "offers": {
+        "url": "www.dumarestimmobilier.com/vente/appartement-t3-3-pieces-paris-75018,VA1976",
+        "price": 440000,
+        "priceCurrency": "EUR",
+        "itemOffered": {
+            "@type": "Apartment",
+            "numberOfRooms": 3,
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitCode": "MTK",
+                "value": 39
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressLocality": "Paris",
+                "postalCode": "75018"
+            },
+            "photo": [{
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA1976/appartement-t3-3-pieces-paris-75018-1602404776-VA1976_4_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA1976/appartement-t3-3-pieces-paris-75018-1602404774-VA1976_3_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA1976/appartement-t3-3-pieces-paris-75018-1599489816-VA1976_6_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA1976/appartement-t3-3-pieces-paris-75018-1602404777-VA1976_5_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA1976/appartement-t3-3-pieces-paris-75018-1599489812-VA1976_1_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA1976/appartement-t3-3-pieces-paris-75018-1599553938-VA1976_2_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA1976/appartement-t3-3-pieces-paris-75018-1599489817-VA1976_7_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA1976/appartement-t3-3-pieces-paris-75018-1599489818-VA1976_8_original.jpg"
+            }],
+            "subjectOf": {
+                "@type": "MediaObject",
+                "url": ""
+            }
+        },
+        "subjectOf": ""
+    }
+}, {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Etienne Marcel - Duplex dernier étage terrasse sans vis à vis",
+    "image": "https://img.netty.immo/product/dumarest/VA1964/appartement-duplex-4-pieces-paris-75001-1596205462-VA1964_8_original.jpg",
+    "description": "Découvrez cet appartement (duplex) de 4 pièces situé à Paris (75001) disponible à la vente.",
+    "offers": {
+        "url": "www.dumarestimmobilier.com/vente/appartement-duplex-4-pieces-paris-75001,VA1964",
+        "price": 1130000,
+        "priceCurrency": "EUR",
+        "itemOffered": {
+            "@type": "Apartment",
+            "numberOfRooms": 4,
+            "numberOfBathroomsTotal": 1,
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitCode": "MTK",
+                "value": 72
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressLocality": "Paris",
+                "postalCode": "75001"
+            },
+            "photo": [{
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA1964/appartement-duplex-4-pieces-paris-75001-1596205462-VA1964_8_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA1964/appartement-duplex-4-pieces-paris-75001-1594948781-VA1964_4_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA1964/appartement-duplex-4-pieces-paris-75001-1594948815-VA1964_5_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA1964/appartement-duplex-4-pieces-paris-75001-1594547237-VA1964_2_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA1964/appartement-duplex-4-pieces-paris-75001-1594051204-VA1964_1_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA1964/appartement-duplex-4-pieces-paris-75001-1594051207-VA1964_3_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA1964/appartement-duplex-4-pieces-paris-75001-1595067984-VA1964_7_original.jpg"
+            }],
+            "subjectOf": {
+                "@type": "MediaObject",
+                "url": ""
+            }
+        },
+        "subjectOf": ""
+    }
+}, {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Paris 15 - Etage élevé - Terrasse",
+    "image": "https://img.netty.immo/product/dumarest/VA1994/appartement-t5-et-plus-5-pieces-paris-75015-1606939400-VA1994_1_original.jpg",
+    "description": "Découvrez cet appartement (t5 et plus) de 5 pièces situé à Paris (75015) disponible à la vente.",
+    "offers": {
+        "url": "www.dumarestimmobilier.com/vente/appartement-t5-et-plus-5-pieces-paris-75015,VA1994",
+        "price": 1050000,
+        "priceCurrency": "EUR",
+        "itemOffered": {
+            "@type": "Apartment",
+            "numberOfRooms": 5,
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitCode": "MTK",
+                "value": 93
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressLocality": "Paris",
+                "postalCode": "75015"
+            },
+            "photo": [{
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA1994/appartement-t5-et-plus-5-pieces-paris-75015-1606939400-VA1994_1_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA1994/appartement-t5-et-plus-5-pieces-paris-75015-1606391462-VA1994_13_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA1994/appartement-t5-et-plus-5-pieces-paris-75015-1606391447-VA1994_3_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA1994/appartement-t5-et-plus-5-pieces-paris-75015-1606391476-VA1994_24_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA1994/appartement-t5-et-plus-5-pieces-paris-75015-1606391456-VA1994_9_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA1994/appartement-t5-et-plus-5-pieces-paris-75015-1606391457-VA1994_10_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA1994/appartement-t5-et-plus-5-pieces-paris-75015-1606391460-VA1994_12_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA1994/appartement-t5-et-plus-5-pieces-paris-75015-1606391463-VA1994_14_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA1994/appartement-t5-et-plus-5-pieces-paris-75015-1606391450-VA1994_5_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA1994/appartement-t5-et-plus-5-pieces-paris-75015-1606991587-VA1994_2_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA1994/appartement-t5-et-plus-5-pieces-paris-75015-1606391465-VA1994_15_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA1994/appartement-t5-et-plus-5-pieces-paris-75015-1606391466-VA1994_16_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA1994/appartement-t5-et-plus-5-pieces-paris-75015-1606391467-VA1994_17_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA1994/appartement-t5-et-plus-5-pieces-paris-75015-1606391468-VA1994_18_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA1994/appartement-t5-et-plus-5-pieces-paris-75015-1606391470-VA1994_19_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA1994/appartement-t5-et-plus-5-pieces-paris-75015-1606391478-VA1994_25_original.jpg"
+            }],
+            "subjectOf": {
+                "@type": "MediaObject",
+                "url": ""
+            }
+        },
+        "subjectOf": ""
+    }
+}, {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Paris 13 - Proche Parc Montsouris - 4P - bonne distribution ",
+    "image": "https://img.netty.immo/product/dumarest/VA2052/appartement-t4-4-pieces-paris-75013-1621163278-VA2052_2_original.jpg",
+    "description": "Découvrez cet appartement (t4) de 4 pièces situé à Paris (75013) disponible à la vente.",
+    "offers": {
+        "url": "www.dumarestimmobilier.com/vente/appartement-t4-4-pieces-paris-75013,VA2052",
+        "price": 0,
+        "priceCurrency": "EUR",
+        "itemOffered": {
+            "@type": "Apartment",
+            "numberOfRooms": 4,
+            "numberOfBathroomsTotal": 1,
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitCode": "MTK",
+                "value": 67
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressLocality": "Paris",
+                "postalCode": "75013"
+            },
+            "photo": [{
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA2052/appartement-t4-4-pieces-paris-75013-1621163278-VA2052_2_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA2052/appartement-t4-4-pieces-paris-75013-1619196084-VA2052_13_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA2052/appartement-t4-4-pieces-paris-75013-1619195942-VA2052_7_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA2052/appartement-t4-4-pieces-paris-75013-1619283649-VA2052_1_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA2052/appartement-t4-4-pieces-paris-75013-1619195851-VA2052_3_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA2052/appartement-t4-4-pieces-paris-75013-1619195920-VA2052_6_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA2052/appartement-t4-4-pieces-paris-75013-1619195990-VA2052_9_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA2052/appartement-t4-4-pieces-paris-75013-1619196014-VA2052_10_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA2052/appartement-t4-4-pieces-paris-75013-1619196108-VA2052_14_original.jpg"
+            }],
+            "subjectOf": {
+                "@type": "MediaObject",
+                "url": ""
+            }
+        },
+        "subjectOf": ""
+    }
+}, {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Paris 15 - Métro Vaugirard - Haussmannien ",
+    "image": "https://img.netty.immo/product/dumarest/VA2023/appartement-t4-4-pieces-paris-75015-1614710757-VA2023_1_original.jpg",
+    "description": "Découvrez cet appartement (t4) de 4 pièces situé à Paris (75015) disponible à la vente.",
+    "offers": {
+        "url": "www.dumarestimmobilier.com/vente/appartement-t4-4-pieces-paris-75015,VA2023",
+        "price": 870000,
+        "priceCurrency": "EUR",
+        "itemOffered": {
+            "@type": "Apartment",
+            "numberOfRooms": 4,
+            "numberOfBathroomsTotal": 1,
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitCode": "MTK",
+                "value": 76
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressLocality": "Paris",
+                "postalCode": "75015"
+            },
+            "photo": [{
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA2023/appartement-t4-4-pieces-paris-75015-1614710757-VA2023_1_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA2023/appartement-t4-4-pieces-paris-75015-1614710759-VA2023_2_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA2023/appartement-t4-4-pieces-paris-75015-1614710765-VA2023_5_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA2023/appartement-t4-4-pieces-paris-75015-1614764009-VA2023_4_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA2023/appartement-t4-4-pieces-paris-75015-1614710784-VA2023_9_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA2023/appartement-t4-4-pieces-paris-75015-1614710789-VA2023_12_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA2023/appartement-t4-4-pieces-paris-75015-1614711105-VA2023_7_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA2023/appartement-t4-4-pieces-paris-75015-1614710794-VA2023_15_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA2023/appartement-t4-4-pieces-paris-75015-1614710796-VA2023_16_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA2023/appartement-t4-4-pieces-paris-75015-1614710792-VA2023_14_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA2023/appartement-t4-4-pieces-paris-75015-1614710798-VA2023_17_original.jpg"
+            }],
+            "subjectOf": {
+                "@type": "MediaObject",
+                "url": ""
+            }
+        },
+        "subjectOf": ""
+    }
+}, {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Paris 14 - Pernety - Studio lumineux",
+    "image": "https://img.netty.immo/product/dumarest/VA1950/appartement-studio-1-piece-paris-75014-1611317869-VA1950_3_original.jpg",
+    "description": "Découvrez cet appartement (studio) de 1 pièce situé à Paris (75014) disponible à la vente.",
+    "offers": {
+        "url": "www.dumarestimmobilier.com/vente/appartement-studio-1-piece-paris-75014,VA1950",
+        "price": 262000,
+        "priceCurrency": "EUR",
+        "itemOffered": {
+            "@type": "Apartment",
+            "numberOfRooms": 1,
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitCode": "MTK",
+                "value": 23
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressLocality": "Paris",
+                "postalCode": "75014"
+            },
+            "photo": [{
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA1950/appartement-studio-1-piece-paris-75014-1611317869-VA1950_3_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA1950/appartement-studio-1-piece-paris-75014-1611317870-VA1950_4_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA1950/appartement-studio-1-piece-paris-75014-1611317874-VA1950_6_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA1950/appartement-studio-1-piece-paris-75014-1611317872-VA1950_5_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA1950/appartement-studio-1-piece-paris-75014-1611317864-VA1950_1_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA1950/appartement-studio-1-piece-paris-75014-1611317867-VA1950_2_original.jpg"
+            }],
+            "subjectOf": {
+                "@type": "MediaObject",
+                "url": ""
+            }
+        },
+        "subjectOf": ""
+    }
+}, {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Paris 17 -  Appartement familial traversant - Refait à neuf par architecte",
+    "image": "https://img.netty.immo/product/dumarest/VA1940/appartement-t5-et-plus-6-pieces-paris-75017-1591162265-VA1940_16_original.jpg",
+    "description": "Découvrez cet appartement (t5 et plus) de 6 pièces situé à Paris (75017) disponible à la vente.",
+    "offers": {
+        "url": "www.dumarestimmobilier.com/vente/appartement-t5-et-plus-6-pieces-paris-75017,VA1940",
+        "price": 1890000,
+        "priceCurrency": "EUR",
+        "itemOffered": {
+            "@type": "Apartment",
+            "numberOfRooms": 6,
+            "numberOfBathroomsTotal": 1,
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitCode": "MTK",
+                "value": 140
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressLocality": "Paris",
+                "postalCode": "75017"
+            },
+            "photo": [{
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA1940/appartement-t5-et-plus-6-pieces-paris-75017-1591162265-VA1940_16_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA1940/appartement-t5-et-plus-6-pieces-paris-75017-1591162260-VA1940_14_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA1940/appartement-t5-et-plus-6-pieces-paris-75017-1591162270-VA1940_18_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA1940/appartement-t5-et-plus-6-pieces-paris-75017-1591162262-VA1940_15_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA1940/appartement-t5-et-plus-6-pieces-paris-75017-1589957711-VA1940_1_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA1940/appartement-t5-et-plus-6-pieces-paris-75017-1591265946-VA1940_12_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA1940/appartement-t5-et-plus-6-pieces-paris-75017-1589957817-VA1940_7_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA1940/appartement-t5-et-plus-6-pieces-paris-75017-1589957806-VA1940_6_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA1940/appartement-t5-et-plus-6-pieces-paris-75017-1591162267-VA1940_17_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA1940/appartement-t5-et-plus-6-pieces-paris-75017-1589957864-VA1940_11_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA1940/appartement-t5-et-plus-6-pieces-paris-75017-1589957906-VA1940_13_original.jpg"
+            }],
+            "subjectOf": {
+                "@type": "MediaObject",
+                "url": ""
+            }
+        },
+        "subjectOf": ""
+    }
+}, {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Orléans - Hypercentre - Exceptionnel - 6 pièces Verrière ",
+    "image": "https://img.netty.immo/product/dumarest/VA1970/appartement-t5-et-plus-6-pieces-orleans-45000-1598198132-VA1970_7_original.jpg",
+    "description": "Découvrez cet appartement (t5 et plus) de 6 pièces situé à Orléans (45000) disponible à la vente.",
+    "offers": {
+        "url": "www.dumarestimmobilier.com/vente/appartement-t5-et-plus-6-pieces-orleans-45000,VA1970",
+        "price": 0,
+        "priceCurrency": "EUR",
+        "itemOffered": {
+            "@type": "Apartment",
+            "numberOfRooms": 6,
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitCode": "MTK",
+                "value": 260
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressLocality": "Orléans",
+                "postalCode": "45000"
+            },
+            "photo": [{
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA1970/appartement-t5-et-plus-6-pieces-orleans-45000-1598198132-VA1970_7_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA1970/appartement-t5-et-plus-6-pieces-orleans-45000-1598198135-VA1970_9_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA1970/appartement-t5-et-plus-6-pieces-orleans-45000-1598198146-VA1970_14_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA1970/appartement-t5-et-plus-6-pieces-orleans-45000-1598198144-VA1970_13_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA1970/appartement-t5-et-plus-6-pieces-orleans-45000-1598872720-VA1970_1_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA1970/appartement-t5-et-plus-6-pieces-orleans-45000-1598198136-VA1970_10_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA1970/appartement-t5-et-plus-6-pieces-orleans-45000-1598198138-VA1970_11_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA1970/appartement-t5-et-plus-6-pieces-orleans-45000-1598198125-VA1970_3_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA1970/appartement-t5-et-plus-6-pieces-orleans-45000-1598198127-VA1970_4_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA1970/appartement-t5-et-plus-6-pieces-orleans-45000-1598198129-VA1970_5_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA1970/appartement-t5-et-plus-6-pieces-orleans-45000-1598198130-VA1970_6_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA1970/appartement-t5-et-plus-6-pieces-orleans-45000-1598198124-VA1970_2_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA1970/appartement-t5-et-plus-6-pieces-orleans-45000-1598198134-VA1970_8_original.jpg"
+            }],
+            "subjectOf": {
+                "@type": "MediaObject",
+                "url": ""
+            }
+        },
+        "subjectOf": ""
+    }
+}, {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Charmant 2 pièces au pied de la butte Montmartre",
+    "image": "https://img.netty.immo/product/dumarest/VA1984/appartement-t3-3-pieces-paris-75018-1602496565-VA1984_5_original.jpg",
+    "description": "Découvrez cet appartement (t3) de 3 pièces situé à Paris (75018) disponible à la vente.",
+    "offers": {
+        "url": "www.dumarestimmobilier.com/vente/appartement-t3-3-pieces-paris-75018,VA1984",
+        "price": 498000,
+        "priceCurrency": "EUR",
+        "itemOffered": {
+            "@type": "Apartment",
+            "numberOfRooms": 3,
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitCode": "MTK",
+                "value": 47
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressLocality": "Paris",
+                "postalCode": "75018"
+            },
+            "photo": [{
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA1984/appartement-t3-3-pieces-paris-75018-1602496565-VA1984_5_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA1984/appartement-t3-3-pieces-paris-75018-1606209221-VA1984_6_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA1984/appartement-t3-3-pieces-paris-75018-1602496564-VA1984_4_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA1984/appartement-t3-3-pieces-paris-75018-1602349480-VA1984_2_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA1984/appartement-t3-3-pieces-paris-75018-1602349479-VA1984_1_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA1984/appartement-t3-3-pieces-paris-75018-1602496563-VA1984_3_original.jpg"
+            }],
+            "subjectOf": {
+                "@type": "MediaObject",
+                "url": ""
+            }
+        },
+        "subjectOf": ""
+    }
+}, {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Paris 18 - Montmartre - Studio parfait",
+    "image": "https://img.netty.immo/product/dumarest/VA1986/appartement-t2-2-pieces-paris-75018-1602748861-VA1986_6_original.jpg",
+    "description": "Découvrez cet appartement (t2) de 2 pièces situé à Paris (75018) disponible à la vente.",
+    "offers": {
+        "url": "www.dumarestimmobilier.com/vente/appartement-t2-2-pieces-paris-75018,VA1986",
+        "price": 338000,
+        "priceCurrency": "EUR",
+        "itemOffered": {
+            "@type": "Apartment",
+            "numberOfRooms": 2,
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitCode": "MTK",
+                "value": 26
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressLocality": "Paris",
+                "postalCode": "75018"
+            },
+            "photo": [{
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA1986/appartement-t2-2-pieces-paris-75018-1602748861-VA1986_6_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA1986/appartement-t2-2-pieces-paris-75018-1604422458-VA1986_2_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA1986/appartement-t2-2-pieces-paris-75018-1604422460-VA1986_3_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA1986/appartement-t2-2-pieces-paris-75018-1604422462-VA1986_7_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA1986/appartement-t2-2-pieces-paris-75018-1604171552-VA1986_5_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA1986/appartement-t2-2-pieces-paris-75018-1604422428-VA1986_1_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA1986/appartement-t2-2-pieces-paris-75018-1604171550-VA1986_4_original.jpg"
+            }],
+            "subjectOf": {
+                "@type": "MediaObject",
+                "url": ""
+            }
+        },
+        "subjectOf": ""
+    }
+}, {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Paris 11 - Duplex Terrasse Dernier étage",
+    "image": "https://img.netty.immo/product/dumarest/VA1990/appartement-t5-et-plus-5-pieces-paris-75011-1603354964-VA1990_10_original.jpg",
+    "description": "Découvrez cet appartement (t5 et plus) de 5 pièces situé à Paris (75011) disponible à la vente.",
+    "offers": {
+        "url": "www.dumarestimmobilier.com/vente/appartement-t5-et-plus-5-pieces-paris-75011,VA1990",
+        "price": 0,
+        "priceCurrency": "EUR",
+        "itemOffered": {
+            "@type": "Apartment",
+            "numberOfRooms": 5,
+            "numberOfBathroomsTotal": 1,
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitCode": "MTK",
+                "value": 115
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressLocality": "Paris",
+                "postalCode": "75011"
+            },
+            "photo": [{
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA1990/appartement-t5-et-plus-5-pieces-paris-75011-1603354964-VA1990_10_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA1990/appartement-t5-et-plus-5-pieces-paris-75011-1603354954-VA1990_1_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA1990/appartement-t5-et-plus-5-pieces-paris-75011-1603354957-VA1990_2_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA1990/appartement-t5-et-plus-5-pieces-paris-75011-1603354960-VA1990_5_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA1990/appartement-t5-et-plus-5-pieces-paris-75011-1603354961-VA1990_6_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA1990/appartement-t5-et-plus-5-pieces-paris-75011-1603354965-VA1990_11_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA1990/appartement-t5-et-plus-5-pieces-paris-75011-1603354960-VA1990_4_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA1990/appartement-t5-et-plus-5-pieces-paris-75011-1603354959-VA1990_3_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA1990/appartement-t5-et-plus-5-pieces-paris-75011-1603354962-VA1990_9_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA1990/appartement-t5-et-plus-5-pieces-paris-75011-1603355157-VA1990_8_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA1990/appartement-t5-et-plus-5-pieces-paris-75011-1603355156-VA1990_7_original.jpg"
+            }],
+            "subjectOf": {
+                "@type": "MediaObject",
+                "url": ""
+            }
+        },
+        "subjectOf": ""
+    }
+}, {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Paris 11 - Bastille - 2/3 pièces type Loft",
+    "image": "https://img.netty.immo/product/dumarest/VA1988/appartement-t2-2-pieces-paris-75011-1606207849-VA1988_2_original.jpg",
+    "description": "Découvrez cet appartement (t2) de 2 pièces situé à Paris (75011) disponible à la vente.",
+    "offers": {
+        "url": "www.dumarestimmobilier.com/vente/appartement-t2-2-pieces-paris-75011,VA1988",
+        "price": 640000,
+        "priceCurrency": "EUR",
+        "itemOffered": {
+            "@type": "Apartment",
+            "numberOfRooms": 2,
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitCode": "MTK",
+                "value": 51
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressLocality": "Paris",
+                "postalCode": "75011"
+            },
+            "photo": [{
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA1988/appartement-t2-2-pieces-paris-75011-1606207849-VA1988_2_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA1988/appartement-t2-2-pieces-paris-75011-1602829590-VA1988_5_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA1988/appartement-t2-2-pieces-paris-75011-1604250859-VA1988_1_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA1988/appartement-t2-2-pieces-paris-75011-1602829591-VA1988_6_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA1988/appartement-t2-2-pieces-paris-75011-1602829593-VA1988_7_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA1988/appartement-t2-2-pieces-paris-75011-1602829595-VA1988_8_original.jpg"
+            }],
+            "subjectOf": {
+                "@type": "MediaObject",
+                "url": ""
+            }
+        },
+        "subjectOf": ""
+    }
+}, {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Neuilly sur Seine - Lumineux 3 pièces ",
+    "image": "https://img.netty.immo/product/dumarest/VA1974/appartement-t3-3-pieces-neuilly-sur-seine-92200-1600429505-VA1974_5_original.jpg",
+    "description": "Découvrez cet appartement (t3) de 3 pièces situé à Neuilly-sur-Seine (92200) disponible à la vente.",
+    "offers": {
+        "url": "www.dumarestimmobilier.com/vente/appartement-t3-3-pieces-neuilly-sur-seine-92200,VA1974",
+        "price": 692000,
+        "priceCurrency": "EUR",
+        "itemOffered": {
+            "@type": "Apartment",
+            "numberOfRooms": 3,
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitCode": "MTK",
+                "value": 56
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressLocality": "Neuilly-sur-Seine",
+                "postalCode": "92200"
+            },
+            "photo": [{
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA1974/appartement-t3-3-pieces-neuilly-sur-seine-92200-1600429505-VA1974_5_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA1974/appartement-t3-3-pieces-neuilly-sur-seine-92200-1600429500-VA1974_1_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA1974/appartement-t3-3-pieces-neuilly-sur-seine-92200-1600429501-VA1974_2_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA1974/appartement-t3-3-pieces-neuilly-sur-seine-92200-1600507971-VA1974_8_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA1974/appartement-t3-3-pieces-neuilly-sur-seine-92200-1600429504-VA1974_4_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA1974/appartement-t3-3-pieces-neuilly-sur-seine-92200-1600429507-VA1974_6_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA1974/appartement-t3-3-pieces-neuilly-sur-seine-92200-1600429503-VA1974_3_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA1974/appartement-t3-3-pieces-neuilly-sur-seine-92200-1600429509-VA1974_7_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA1974/appartement-t3-3-pieces-neuilly-sur-seine-92200-1600428454-VA1974_12_original.jpg"
+            }],
+            "subjectOf": {
+                "@type": "MediaObject",
+                "url": ""
+            }
+        },
+        "subjectOf": ""
+    }
+}, {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Paris 15 - Charmant 2 pièces  vue dégagée",
+    "image": "https://img.netty.immo/product/dumarest/VA1968/appartement-t2-2-pieces-paris-75015-1597669352-VA1968_15_original.jpg",
+    "description": "Découvrez cet appartement (t2) de 2 pièces situé à Paris (75015) disponible à la vente.",
+    "offers": {
+        "url": "www.dumarestimmobilier.com/vente/appartement-t2-2-pieces-paris-75015,VA1968",
+        "price": 411000,
+        "priceCurrency": "EUR",
+        "itemOffered": {
+            "@type": "Apartment",
+            "numberOfRooms": 2,
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitCode": "MTK",
+                "value": 37
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressLocality": "Paris",
+                "postalCode": "75015"
+            },
+            "photo": [{
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA1968/appartement-t2-2-pieces-paris-75015-1597669352-VA1968_15_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA1968/appartement-t2-2-pieces-paris-75015-1597669330-VA1968_1_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA1968/appartement-t2-2-pieces-paris-75015-1597669335-VA1968_4_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA1968/appartement-t2-2-pieces-paris-75015-1597993279-VA1968_2_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA1968/appartement-t2-2-pieces-paris-75015-1597669344-VA1968_10_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA1968/appartement-t2-2-pieces-paris-75015-1597669346-VA1968_11_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA1968/appartement-t2-2-pieces-paris-75015-1597669341-VA1968_8_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA1968/appartement-t2-2-pieces-paris-75015-1597669338-VA1968_6_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA1968/appartement-t2-2-pieces-paris-75015-1597669339-VA1968_7_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA1968/appartement-t2-2-pieces-paris-75015-1597669336-VA1968_5_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA1968/appartement-t2-2-pieces-paris-75015-1597669353-VA1968_16_original.jpg"
+            }],
+            "subjectOf": {
+                "@type": "MediaObject",
+                "url": ""
+            }
+        },
+        "subjectOf": ""
+    }
+}, {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Paris 15 - Convention - 2 pièces étage élevé avec balcon ",
+    "image": "https://img.netty.immo/product/dumarest/VA1932/appartement-t2-2-pieces-paris-75015-1592651325-VA1932_18_original.jpg",
+    "description": "Découvrez cet appartement (t2) de 2 pièces situé à Paris (75015) disponible à la vente.",
+    "offers": {
+        "url": "www.dumarestimmobilier.com/vente/appartement-t2-2-pieces-paris-75015,VA1932",
+        "price": 450000,
+        "priceCurrency": "EUR",
+        "itemOffered": {
+            "@type": "Apartment",
+            "numberOfRooms": 2,
+            "numberOfBathroomsTotal": 1,
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitCode": "MTK",
+                "value": 42
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressLocality": "Paris",
+                "postalCode": "75015"
+            },
+            "photo": [{
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA1932/appartement-t2-2-pieces-paris-75015-1592651325-VA1932_18_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA1932/appartement-t2-2-pieces-paris-75015-1589270245-VA1932_8_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA1932/appartement-t2-2-pieces-paris-75015-1586870423-VA1932_2_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA1932/appartement-t2-2-pieces-paris-75015-1588080496-VA1932_9_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA1932/appartement-t2-2-pieces-paris-75015-1586870432-VA1932_7_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA1932/appartement-t2-2-pieces-paris-75015-1589270250-VA1932_16_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA1932/appartement-t2-2-pieces-paris-75015-1589270248-VA1932_12_original.jpg"
+            }],
+            "subjectOf": {
+                "@type": "MediaObject",
+                "url": ""
+            }
+        },
+        "subjectOf": ""
+    }
+}, {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Hyper centre - 3 pièces avec belle vue dégagée",
+    "image": "https://img.netty.immo/product/dumarest/VA1920/appartement-t3-3-pieces-valence-26000-1580251584-VA1920_8_original.jpg",
+    "description": "Découvrez cet appartement (t3) de 3 pièces situé à Valence (26000) disponible à la vente.",
+    "offers": {
+        "url": "www.dumarestimmobilier.com/vente/appartement-t3-3-pieces-valence-26000,VA1920",
+        "price": 178000,
+        "priceCurrency": "EUR",
+        "itemOffered": {
+            "@type": "Apartment",
+            "numberOfRooms": 3,
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitCode": "MTK",
+                "value": 70
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressLocality": "Valence",
+                "postalCode": "26000"
+            },
+            "photo": [{
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA1920/appartement-t3-3-pieces-valence-26000-1580251584-VA1920_8_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA1920/appartement-t3-3-pieces-valence-26000-1580251577-VA1920_3_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA1920/appartement-t3-3-pieces-valence-26000-1580482573-VA1920_10_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA1920/appartement-t3-3-pieces-valence-26000-1580251582-VA1920_6_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA1920/appartement-t3-3-pieces-valence-26000-1580251583-VA1920_7_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA1920/appartement-t3-3-pieces-valence-26000-1583228487-VA1920_2_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA1920/appartement-t3-3-pieces-valence-26000-1580251734-VA1920_4_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA1920/appartement-t3-3-pieces-valence-26000-1580251591-VA1920_14_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA1920/appartement-t3-3-pieces-valence-26000-1580251585-VA1920_9_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA1920/appartement-t3-3-pieces-valence-26000-1580251588-VA1920_12_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA1920/appartement-t3-3-pieces-valence-26000-1580251590-VA1920_13_original.jpg"
+            }],
+            "subjectOf": {
+                "@type": "MediaObject",
+                "url": "https://www.youtube.com/watch?v=MBECGf7Homw"
+            }
+        },
+        "subjectOf": ""
+    }
+}, {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Chambre de Service",
+    "image": "https://img.netty.immo/product/dumarest/VA1904/appartement-studio-1-piece-neuilly-sur-seine-92200-1570635568-VA1904_1_original.jpg",
+    "description": "Découvrez cet appartement (studio) de 1 pièce situé à Neuilly-sur-Seine (92200) disponible à la vente.",
+    "offers": {
+        "url": "www.dumarestimmobilier.com/vente/appartement-studio-1-piece-neuilly-sur-seine-92200,VA1904",
+        "price": 127800,
+        "priceCurrency": "EUR",
+        "itemOffered": {
+            "@type": "Apartment",
+            "numberOfRooms": 1,
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitCode": "MTK",
+                "value": 10
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressLocality": "Neuilly-sur-Seine",
+                "postalCode": "92200"
+            },
+            "photo": [{
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA1904/appartement-studio-1-piece-neuilly-sur-seine-92200-1570635568-VA1904_1_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA1904/appartement-studio-1-piece-neuilly-sur-seine-92200-1570635572-VA1904_3_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA1904/appartement-studio-1-piece-neuilly-sur-seine-92200-1570635574-VA1904_4_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA1904/appartement-studio-1-piece-neuilly-sur-seine-92200-1570635570-VA1904_2_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA1904/appartement-studio-1-piece-neuilly-sur-seine-92200-1570635578-VA1904_5_original.jpg"
+            }],
+            "subjectOf": {
+                "@type": "MediaObject",
+                "url": ""
+            }
+        },
+        "subjectOf": ""
+    }
+}, {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Charmant 3 pièces",
+    "image": "https://img.netty.immo/product/dumarest/VA1954/appartement-t3-3-pieces-boulogne-billancourt-92100-1591364416-VA1954_6_original.jpg",
+    "description": "Découvrez cet appartement (t3) de 3 pièces situé à Boulogne-Billancourt (92100) disponible à la vente.",
+    "offers": {
+        "url": "www.dumarestimmobilier.com/vente/appartement-t3-3-pieces-boulogne-billancourt-92100,VA1954",
+        "price": 427000,
+        "priceCurrency": "EUR",
+        "itemOffered": {
+            "@type": "Apartment",
+            "numberOfRooms": 3,
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitCode": "MTK",
+                "value": 54
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressLocality": "Boulogne-Billancourt",
+                "postalCode": "92100"
+            },
+            "photo": [{
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA1954/appartement-t3-3-pieces-boulogne-billancourt-92100-1591364416-VA1954_6_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA1954/appartement-t3-3-pieces-boulogne-billancourt-92100-1591364414-VA1954_3_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA1954/appartement-t3-3-pieces-boulogne-billancourt-92100-1591364415-VA1954_5_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA1954/appartement-t3-3-pieces-boulogne-billancourt-92100-1591364417-VA1954_9_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA1954/appartement-t3-3-pieces-boulogne-billancourt-92100-1591364418-VA1954_10_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA1954/appartement-t3-3-pieces-boulogne-billancourt-92100-1591364419-VA1954_13_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA1954/appartement-t3-3-pieces-boulogne-billancourt-92100-1591364420-VA1954_15_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA1954/appartement-t3-3-pieces-boulogne-billancourt-92100-1591364421-VA1954_16_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA1954/appartement-t3-3-pieces-boulogne-billancourt-92100-1591364422-VA1954_17_original.jpg"
+            }],
+            "subjectOf": {
+                "@type": "MediaObject",
+                "url": ""
+            }
+        },
+        "subjectOf": ""
+    }
+}, {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "3 pièces - rue de Lévis",
+    "image": "https://img.netty.immo/product/dumarest/VA1914/appartement-t3-3-pieces-paris-75017-1573281035-VA1914_11_original.jpg",
+    "description": "Découvrez cet appartement (t3) de 3 pièces situé à Paris (75017) disponible à la vente.",
+    "offers": {
+        "url": "www.dumarestimmobilier.com/vente/appartement-t3-3-pieces-paris-75017,VA1914",
+        "price": 595000,
+        "priceCurrency": "EUR",
+        "itemOffered": {
+            "@type": "Apartment",
+            "numberOfRooms": 3,
+            "numberOfBathroomsTotal": 1,
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitCode": "MTK",
+                "value": 48
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressLocality": "Paris",
+                "postalCode": "75017"
+            },
+            "photo": [{
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA1914/appartement-t3-3-pieces-paris-75017-1573281035-VA1914_11_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA1914/appartement-t3-3-pieces-paris-75017-1573281242-VA1914_2_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA1914/appartement-t3-3-pieces-paris-75017-1573281034-VA1914_10_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA1914/appartement-t3-3-pieces-paris-75017-1573281016-VA1914_1_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA1914/appartement-t3-3-pieces-paris-75017-1573281032-VA1914_9_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA1914/appartement-t3-3-pieces-paris-75017-1573281020-VA1914_3_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA1914/appartement-t3-3-pieces-paris-75017-1573281037-VA1914_12_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA1914/appartement-t3-3-pieces-paris-75017-1573281039-VA1914_13_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA1914/appartement-t3-3-pieces-paris-75017-1573281024-VA1914_5_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA1914/appartement-t3-3-pieces-paris-75017-1573281025-VA1914_6_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA1914/appartement-t3-3-pieces-paris-75017-1573281027-VA1914_7_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA1914/appartement-t3-3-pieces-paris-75017-1573281030-VA1914_8_original.jpg"
+            }],
+            "subjectOf": {
+                "@type": "MediaObject",
+                "url": ""
+            }
+        },
+        "subjectOf": ""
+    }
+}, {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "2 pièces - Balcon - dernier étage - vue dégagée",
+    "image": "https://img.netty.immo/product/dumarest/VA1918/appartement-t2-2-pieces-boulogne-billancourt-92100-1578418927-VA1918_8_original.jpg",
+    "description": "Découvrez cet appartement (t2) de 2 pièces situé à Boulogne-Billancourt (92100) disponible à la vente.",
+    "offers": {
+        "url": "www.dumarestimmobilier.com/vente/appartement-t2-2-pieces-boulogne-billancourt-92100,VA1918",
+        "price": 530000,
+        "priceCurrency": "EUR",
+        "itemOffered": {
+            "@type": "Apartment",
+            "numberOfRooms": 2,
+            "numberOfBathroomsTotal": 1,
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitCode": "MTK",
+                "value": 53
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressLocality": "Boulogne-Billancourt",
+                "postalCode": "92100"
+            },
+            "photo": [{
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA1918/appartement-t2-2-pieces-boulogne-billancourt-92100-1578418927-VA1918_8_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA1918/appartement-t2-2-pieces-boulogne-billancourt-92100-1578418928-VA1918_9_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA1918/appartement-t2-2-pieces-boulogne-billancourt-92100-1578418923-VA1918_5_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA1918/appartement-t2-2-pieces-boulogne-billancourt-92100-1578418922-VA1918_4_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA1918/appartement-t2-2-pieces-boulogne-billancourt-92100-1578418920-VA1918_3_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA1918/appartement-t2-2-pieces-boulogne-billancourt-92100-1578418926-VA1918_7_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA1918/appartement-t2-2-pieces-boulogne-billancourt-92100-1578418924-VA1918_6_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA1918/appartement-t2-2-pieces-boulogne-billancourt-92100-1578418917-VA1918_1_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA1918/appartement-t2-2-pieces-boulogne-billancourt-92100-1578418918-VA1918_2_original.jpg"
+            }],
+            "subjectOf": {
+                "@type": "MediaObject",
+                "url": ""
+            }
+        },
+        "subjectOf": ""
+    }
+}, {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Coup de coeur pour ce Triplex",
+    "image": "https://img.netty.immo/product/dumarest/VA1944/appartement-duplex-5-pieces-paris-75016-1590816570-VA1944_2_original.jpg",
+    "description": "Découvrez cet appartement (duplex) de 5 pièces situé à Paris (75016) disponible à la vente.",
+    "offers": {
+        "url": "www.dumarestimmobilier.com/vente/appartement-duplex-5-pieces-paris-75016,VA1944",
+        "price": 1795000,
+        "priceCurrency": "EUR",
+        "itemOffered": {
+            "@type": "Apartment",
+            "numberOfRooms": 5,
+            "numberOfBathroomsTotal": 1,
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitCode": "MTK",
+                "value": 176
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressLocality": "Paris",
+                "postalCode": "75016"
+            },
+            "photo": [{
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA1944/appartement-duplex-5-pieces-paris-75016-1590816570-VA1944_2_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA1944/appartement-duplex-5-pieces-paris-75016-1590816573-VA1944_3_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA1944/appartement-duplex-5-pieces-paris-75016-1590816575-VA1944_4_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA1944/appartement-duplex-5-pieces-paris-75016-1590816577-VA1944_5_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA1944/appartement-duplex-5-pieces-paris-75016-1590816579-VA1944_6_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA1944/appartement-duplex-5-pieces-paris-75016-1590816582-VA1944_7_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA1944/appartement-duplex-5-pieces-paris-75016-1590816584-VA1944_8_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA1944/appartement-duplex-5-pieces-paris-75016-1590816586-VA1944_9_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA1944/appartement-duplex-5-pieces-paris-75016-1590816589-VA1944_10_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA1944/appartement-duplex-5-pieces-paris-75016-1590816591-VA1944_11_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA1944/appartement-duplex-5-pieces-paris-75016-1590816593-VA1944_12_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA1944/appartement-duplex-5-pieces-paris-75016-1590816595-VA1944_13_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA1944/appartement-duplex-5-pieces-paris-75016-1590816597-VA1944_14_original.jpg"
+            }],
+            "subjectOf": {
+                "@type": "MediaObject",
+                "url": ""
+            }
+        },
+        "subjectOf": ""
+    }
+}, {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Vue sur la Seine ",
+    "image": "https://img.netty.immo/product/dumarest/VA1948/appartement-t4-4-pieces-suresnes-92150-1590820074-VA1948_1_original.jpg",
+    "description": "Découvrez cet appartement (t4) de 4 pièces situé à Suresnes (92150) disponible à la vente.",
+    "offers": {
+        "url": "www.dumarestimmobilier.com/vente/appartement-t4-4-pieces-suresnes-92150,VA1948",
+        "price": 730000,
+        "priceCurrency": "EUR",
+        "itemOffered": {
+            "@type": "Apartment",
+            "numberOfRooms": 4,
+            "numberOfBathroomsTotal": 1,
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitCode": "MTK",
+                "value": 97
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressLocality": "Suresnes",
+                "postalCode": "92150"
+            },
+            "photo": [{
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA1948/appartement-t4-4-pieces-suresnes-92150-1590820074-VA1948_1_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA1948/appartement-t4-4-pieces-suresnes-92150-1590820075-VA1948_3_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA1948/appartement-t4-4-pieces-suresnes-92150-1590820076-VA1948_4_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA1948/appartement-t4-4-pieces-suresnes-92150-1590820077-VA1948_5_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA1948/appartement-t4-4-pieces-suresnes-92150-1590820078-VA1948_6_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA1948/appartement-t4-4-pieces-suresnes-92150-1590820079-VA1948_7_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA1948/appartement-t4-4-pieces-suresnes-92150-1590820080-VA1948_8_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA1948/appartement-t4-4-pieces-suresnes-92150-1590820081-VA1948_9_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA1948/appartement-t4-4-pieces-suresnes-92150-1590820082-VA1948_10_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA1948/appartement-t4-4-pieces-suresnes-92150-1590820082-VA1948_11_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA1948/appartement-t4-4-pieces-suresnes-92150-1590820083-VA1948_12_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA1948/appartement-t4-4-pieces-suresnes-92150-1590820084-VA1948_13_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA1948/appartement-t4-4-pieces-suresnes-92150-1590820085-VA1948_14_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA1948/appartement-t4-4-pieces-suresnes-92150-1590820086-VA1948_15_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA1948/appartement-t4-4-pieces-suresnes-92150-1590820087-VA1948_16_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA1948/appartement-t4-4-pieces-suresnes-92150-1590820087-VA1948_17_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA1948/appartement-t4-4-pieces-suresnes-92150-1590820088-VA1948_18_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA1948/appartement-t4-4-pieces-suresnes-92150-1590820089-VA1948_19_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA1948/appartement-t4-4-pieces-suresnes-92150-1590820090-VA1948_20_original.jpg"
+            }],
+            "subjectOf": {
+                "@type": "MediaObject",
+                "url": ""
+            }
+        },
+        "subjectOf": ""
+    }
+}, {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Charme de l'ancien",
+    "image": "https://img.netty.immo/product/dumarest/VA1946/appartement-t3-3-pieces-paris-75015-1590819341-VA1946_18_original.jpg",
+    "description": "Découvrez cet appartement (t3) de 3 pièces situé à Paris (75015) disponible à la vente.",
+    "offers": {
+        "url": "www.dumarestimmobilier.com/vente/appartement-t3-3-pieces-paris-75015,VA1946",
+        "price": 670000,
+        "priceCurrency": "EUR",
+        "itemOffered": {
+            "@type": "Apartment",
+            "numberOfRooms": 3,
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitCode": "MTK",
+                "value": 62
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressLocality": "Paris",
+                "postalCode": "75015"
+            },
+            "photo": [{
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA1946/appartement-t3-3-pieces-paris-75015-1590819341-VA1946_18_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA1946/appartement-t3-3-pieces-paris-75015-1590819330-VA1946_8_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA1946/appartement-t3-3-pieces-paris-75015-1590819324-VA1946_1_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA1946/appartement-t3-3-pieces-paris-75015-1590819325-VA1946_2_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA1946/appartement-t3-3-pieces-paris-75015-1590819326-VA1946_3_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA1946/appartement-t3-3-pieces-paris-75015-1590819330-VA1946_7_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA1946/appartement-t3-3-pieces-paris-75015-1590819333-VA1946_11_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA1946/appartement-t3-3-pieces-paris-75015-1590819334-VA1946_12_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA1946/appartement-t3-3-pieces-paris-75015-1590819339-VA1946_16_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA1946/appartement-t3-3-pieces-paris-75015-1590819417-VA1946_4_original.jpg"
+            }],
+            "subjectOf": {
+                "@type": "MediaObject",
+                "url": ""
+            }
+        },
+        "subjectOf": ""
+    }
+}, {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "2 pièces avec balcon au calme - Vue dégagée",
+    "image": "https://img.netty.immo/product/dumarest/VA1924/appartement-t2-2-pieces-paris-75015-1587058961-VA1924_5_original.jpg",
+    "description": "Découvrez cet appartement (t2) de 2 pièces situé à Paris (75015) disponible à la vente.",
+    "offers": {
+        "url": "www.dumarestimmobilier.com/vente/appartement-t2-2-pieces-paris-75015,VA1924",
+        "price": 429000,
+        "priceCurrency": "EUR",
+        "itemOffered": {
+            "@type": "Apartment",
+            "numberOfRooms": 2,
+            "numberOfBathroomsTotal": 1,
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitCode": "MTK",
+                "value": 38
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressLocality": "Paris",
+                "postalCode": "75015"
+            },
+            "photo": [{
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA1924/appartement-t2-2-pieces-paris-75015-1587058961-VA1924_5_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA1924/appartement-t2-2-pieces-paris-75015-1587058974-VA1924_11_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA1924/appartement-t2-2-pieces-paris-75015-1587058966-VA1924_7_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA1924/appartement-t2-2-pieces-paris-75015-1587058980-VA1924_14_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA1924/appartement-t2-2-pieces-paris-75015-1587058979-VA1924_13_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA1924/appartement-t2-2-pieces-paris-75015-1587058968-VA1924_8_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA1924/appartement-t2-2-pieces-paris-75015-1587058957-VA1924_3_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA1924/appartement-t2-2-pieces-paris-75015-1587058982-VA1924_15_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA1924/appartement-t2-2-pieces-paris-75015-1587058969-VA1924_9_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA1924/appartement-t2-2-pieces-paris-75015-1587058956-VA1924_2_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VA1924/appartement-t2-2-pieces-paris-75015-1587058983-VA1924_16_original.jpg"
+            }],
+            "subjectOf": {
+                "@type": "MediaObject",
+                "url": "https://youtu.be/gTuCxBpfF-w"
+            }
+        },
+        "subjectOf": ""
+    }
+}, {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Meulière - Centre Ville",
+    "image": "https://img.netty.immo/product/dumarest/VM268/maison-individuelle-6-pieces-nogent-sur-marne-94130-1571931521-VM268_8_original.jpg",
+    "description": "Découvrez cette maison (individuelle) de 6 pièces située à Nogent-sur-Marne (94130) disponible à la vente.",
+    "offers": {
+        "url": "www.dumarestimmobilier.com/vente/maison-individuelle-6-pieces-nogent-sur-marne-94130,VM268",
+        "price": 1095000,
+        "priceCurrency": "EUR",
+        "itemOffered": {
+            "@type": "House",
+            "numberOfRooms": 6,
+            "numberOfBathroomsTotal": 1,
+            "floorSize": {
+                "@type": "QuantitativeValue",
+                "unitCode": "MTK",
+                "value": 160
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "addressLocality": "Nogent-sur-Marne",
+                "postalCode": "94130"
+            },
+            "photo": [{
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VM268/maison-individuelle-6-pieces-nogent-sur-marne-94130-1571931521-VM268_8_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VM268/maison-individuelle-6-pieces-nogent-sur-marne-94130-1571931535-VM268_17_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VM268/maison-individuelle-6-pieces-nogent-sur-marne-94130-1571931551-VM268_19_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VM268/maison-individuelle-6-pieces-nogent-sur-marne-94130-1571931512-VM268_5_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VM268/maison-individuelle-6-pieces-nogent-sur-marne-94130-1571931515-VM268_6_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VM268/maison-individuelle-6-pieces-nogent-sur-marne-94130-1571931510-VM268_4_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VM268/maison-individuelle-6-pieces-nogent-sur-marne-94130-1571931518-VM268_7_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VM268/maison-individuelle-6-pieces-nogent-sur-marne-94130-1571931524-VM268_9_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VM268/maison-individuelle-6-pieces-nogent-sur-marne-94130-1571931457-VM268_1_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VM268/maison-individuelle-6-pieces-nogent-sur-marne-94130-1571931537-VM268_18_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VM268/maison-individuelle-6-pieces-nogent-sur-marne-94130-1571931525-VM268_10_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VM268/maison-individuelle-6-pieces-nogent-sur-marne-94130-1571931527-VM268_11_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VM268/maison-individuelle-6-pieces-nogent-sur-marne-94130-1571931528-VM268_12_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VM268/maison-individuelle-6-pieces-nogent-sur-marne-94130-1571931530-VM268_13_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VM268/maison-individuelle-6-pieces-nogent-sur-marne-94130-1571931531-VM268_14_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VM268/maison-individuelle-6-pieces-nogent-sur-marne-94130-1571931533-VM268_15_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VM268/maison-individuelle-6-pieces-nogent-sur-marne-94130-1571931534-VM268_16_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VM268/maison-individuelle-6-pieces-nogent-sur-marne-94130-1571931459-VM268_2_original.jpg"
+            }, {
+                "@type": "ImageObject",
+                "url": "https://img.netty.immo/product/dumarest/VM268/maison-individuelle-6-pieces-nogent-sur-marne-94130-1571931461-VM268_3_original.jpg"
+            }],
+            "subjectOf": {
+                "@type": "MediaObject",
+                "url": ""
+            }
+        },
+        "subjectOf": ""
+    }
+}]
