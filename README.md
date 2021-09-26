@@ -8,6 +8,7 @@ with Deno
 | :---- | :---- | :---- | :---- |
 | Immobilier.hu | [Link](https://immobilier.hu/) | 05/09/2021 | Scrapping pur |
 | Leggett-immo | [Link](https://www.leggett-immo.com) | 11/09/2021 | Exploit weak API |
+| Imop | [Link](https://www.imop.fr) | 26/09/2021 | Exploit JSON in webpage |
 
 
 # Launch 
@@ -46,3 +47,9 @@ Body JSON:
 ```
 
 Stats: ~5000ms
+
+# imop.fr
+`wget https://www.imop.fr/annonces`
+
+- go to script part
+- copy past ths JSON data
