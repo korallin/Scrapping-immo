@@ -10,6 +10,7 @@ with Deno
 | Leggett-immo | [Link](https://www.leggett-immo.com) | 11/09/2021 | Exploit weak API |
 | Imop | [Link](https://www.imop.fr) | 26/09/2021 | Exploit JSON in webpage |
 | Dumarest immobilier | [Link](https://dumarestimmobilier.com) | 26/09/2021 | Exploit JSON webpages |
+| Worldimmotrade | [Link](https://www.worldimmotrade.de) | 19/12/2021 | Exploit weak API |
 
 
 # Launch 
@@ -58,3 +59,11 @@ Stats: ~5000ms
 # Dumarest immobilier 
 - `deno run -A --unstable --no-check main.ts`
 - data will go out in: `index.json` :)
+
+
+# Worldimmotrade
+first generate all the country code (no needed if countrycodelist.txt is not empty)<br>
+[Country Code List](https://www.worldimmotrade.de/countries) / past in list_pays.html the html code, and execute gencountrylist.ts <br>
+**Next**
+- `deno run -A --unstable --no-check main.ts`
+- data will go out in: `data.json` :)
